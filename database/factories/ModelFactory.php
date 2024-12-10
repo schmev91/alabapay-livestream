@@ -1,6 +1,6 @@
 <?php
 
-namespace VendorName\Skeleton\Database\Factories;
+namespace Alabapay\AlabapayLivestream\Database\Factories;
 
 use Illuminate\Database\Eloquent\Factories\Factory;
 
