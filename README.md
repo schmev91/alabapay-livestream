@@ -42,7 +42,7 @@ php artisan alabapay-livestream:setup
 | Parameter       | Type   | Default Value                     | Description                                  |
 | --------------- | ------ | --------------------------------- | -------------------------------------------- |
 | `access_key`    | string | `env("ALABAPAY_LIVESTREAM_KEY")`  | Your Alabapay Access Key                     |
-| `alabapay_url`  | string | `http://genius_alaba.test/`       | Whether to enable request/response logging.  |
+| `alabapay_url`  | string | `http://genius_alaba.test/`       | URL to Alabapay                              |
 | `user_class`    | string | `\App\Models\User::class`         | The User Class's path                        |
 
 ## API Reference
