@@ -1,5 +1,20 @@
 # Alabapay Livestream Package
 
+## Installation Guide
+
+### Add the package as a repository into `composer.json`
+
+```json
+{
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/schmev91/alabapay-livestream"
+        }
+    ]
+}
+```
+
 ### Install the package with composer
 
 ```bash
